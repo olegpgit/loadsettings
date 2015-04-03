@@ -21,8 +21,6 @@ if($file)
     var_dump($settings);
 }
 
-
-
 function getSettings($file)// Get settings and load them into an array
 {
     $settings = array();
