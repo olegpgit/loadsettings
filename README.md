@@ -6,4 +6,4 @@ and run in the terminal:
 
 php parse.php
 
-Tested on Ubuntu
+Tested on Ubuntu PHP 5.4
